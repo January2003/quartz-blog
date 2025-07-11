@@ -6,4 +6,4 @@ This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 [[Hello World]]
-[[quartz/content/电子书]]
+[[电子书]]
